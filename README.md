@@ -11,12 +11,11 @@ Run the Flask app using python app.py.
 <h1>How to Use</h1>
 
 After the Flask app is up and running, you can use the web interface to enter the names of the teams and the location of the match, and the software will predict the result using Ridge Regressor. If you like, you can also download the dataset and train the model yourself.
-
-<br>
-
-
 <br>
 <h1>FILES</h1>
+<br>
+![image](https://user-images.githubusercontent.com/60037478/230735053-8620ce7d-ee94-46b5-9d9c-f88bd2c07500.png)
+
 <br>
 app.py: the Flask app that handles the user interface and prediction.<br>
 model.py: the script that trains the Ridge Regressor model on the IPL dataset.<br>
@@ -27,7 +26,6 @@ style.css: the CSS stylesheet for the user interface.<br>
 <br>
 The IPL dataset used in this project is available on Kaggle. It contains data on all IPL matches played between 2008 and 2020, including the teams, venues, and outcomes<br>
 <h1>Data Cleaning and Preprocessing</h1>
-
 
 ![image](https://user-images.githubusercontent.com/60037478/230734781-66a858c4-dce7-46a6-af9c-1f0f6937bfc0.png)
 
