@@ -12,6 +12,7 @@
 - Deployed using Flask.  
 - Just run app.py and go to localhost to see the results.  
 
+![image](https://user-images.githubusercontent.com/60037478/230732912-72d8882b-fa2b-4c21-a4e2-66e36e65b757.png)
 
 
 ![](ipl.gif)
