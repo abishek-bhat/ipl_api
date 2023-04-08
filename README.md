@@ -2,9 +2,7 @@
 
 - This is just another simple yet intresting project which can approximately predict an innings score based on the data from 2008-2017 IPL season.  
 - I tried training three models:  
- 1. Linear Regression  
- 2. Lasso  
- 3. Ridge  
+ 1. Ridge  
 - and out of these surprisingly Linear regression was giving more realistic results.  
 - If you liked this project star this repo.  
 - I made some improvisations in his code like I totally removed the result page and showed the results on the same page.  
