@@ -47,6 +47,22 @@ Hosting the Flask app on a cloud service like Heroku <br>
 Configuring the app and setting environment variables<br>
 Testing the deployed app and ensuring it works as expected<br>
 Updating the app with new features and improvements as needed<br>
+<h1>Performance Evaluation</h1><br>
+Evaluating the performance of the trained model on the testing dataset<br>
+Calculating metrics like accuracy, precision, recall, and F1 score to measure the model's performance<br>
+Visualizing the performance of the model using tools like confusion matrix, ROC curve, and precision-recall curve<br>
+<h1>Feature Engineering</h1>
+Exploring and analyzing the IPL dataset to identify relevant features for the prediction task<br>
+Creating new features by combining or transforming existing features<br>
+Scaling or normalizing features to improve model performance<br>
+<h1>Model Interpretation</h1>
+Interpreting the trained Ridge Regressor model to understand how it makes predictions<br>
+Examining the coefficients of the model to identify the most important features for prediction<br>
+Visualizing the coefficients using tools like bar charts or heatmaps<br>
+<h1>Error Analysis</h1>
+Analyzing the errors made by the trained model on the testing dataset<br>
+Identifying patterns in the errors and determining if there are any systematic biases or issues with the model<br>
+Using the insights gained from error analysis to improve the model or dataset<br>
 
 https://user-images.githubusercontent.com/60037478/230733310-9b6bf171-14bc-4d9b-a5b5-2c0a084a4f85.mp4
 
