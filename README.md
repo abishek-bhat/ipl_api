@@ -14,7 +14,7 @@ After the Flask app is up and running, you can use the web interface to enter th
 
 <br>
 
-![image](https://user-images.githubusercontent.com/60037478/230734037-7aa865ed-3aa0-4549-89c1-875a29112e62.png)
+
 <br>
 <h1>FILES</h1>
 <br>
@@ -27,7 +27,7 @@ style.css: the CSS stylesheet for the user interface.<br>
 <br>
 The IPL dataset used in this project is available on Kaggle. It contains data on all IPL matches played between 2008 and 2020, including the teams, venues, and outcomes<br>
 <h1>Data Cleaning and Preprocessing</h1>
-![images_123](https://user-images.githubusercontent.com/60037478/230734713-e04eee84-8147-487f-91c1-4300d8fa395b.png)
+
 
 ![image](https://user-images.githubusercontent.com/60037478/230734781-66a858c4-dce7-46a6-af9c-1f0f6937bfc0.png)
 
@@ -67,6 +67,9 @@ Visualizing the coefficients using tools like bar charts or heatmaps<br>
 Analyzing the errors made by the trained model on the testing dataset<br>
 Identifying patterns in the errors and determining if there are any systematic biases or issues with the model<br>
 Using the insights gained from error analysis to improve the model or dataset<br>
+
+<h1>SAMPLE OUTPUT PICTURE</h1>
+![image](https://user-images.githubusercontent.com/60037478/230734037-7aa865ed-3aa0-4549-89c1-875a29112e62.png)
 
 https://user-images.githubusercontent.com/60037478/230733310-9b6bf171-14bc-4d9b-a5b5-2c0a084a4f85.mp4
 
