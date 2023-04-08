@@ -68,8 +68,9 @@ Analyzing the errors made by the trained model on the testing dataset<br>
 Identifying patterns in the errors and determining if there are any systematic biases or issues with the model<br>
 Using the insights gained from error analysis to improve the model or dataset<br>
 
-<h1>SAMPLE OUTPUT PICTURE</h1>
-![image](https://user-images.githubusercontent.com/60037478/230734037-7aa865ed-3aa0-4549-89c1-875a29112e62.png)
+<h1>SAMPLE OUTPUT</h1><br>
+
+![image](https://user-images.githubusercontent.com/60037478/230734874-1a073b3c-89cf-4aa2-8ae3-27382754f5d5.png)
 
 https://user-images.githubusercontent.com/60037478/230733310-9b6bf171-14bc-4d9b-a5b5-2c0a084a4f85.mp4
 
