@@ -13,7 +13,9 @@ Run the Flask app using python app.py.
 After the Flask app is up and running, you can use the web interface to enter the names of the teams and the location of the match, and the software will predict the result using Ridge Regressor. If you like, you can also download the dataset and train the model yourself.
 
 <br>
-![image](https://user-images.githubusercontent.com/60037478/230732912-72d8882b-fa2b-4c21-a4e2-66e36e65b757.png)
+
+![image](https://user-images.githubusercontent.com/60037478/230734037-7aa865ed-3aa0-4549-89c1-875a29112e62.png)
+
 
 
 https://user-images.githubusercontent.com/60037478/230733310-9b6bf171-14bc-4d9b-a5b5-2c0a084a4f85.mp4
