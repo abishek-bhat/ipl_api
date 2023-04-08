@@ -1,6 +1,8 @@
 # IPL-Score-Predictor
-This is a project that predicts the outcomes of IPL (Indian Premier League) matches using Ridge Regressor and Flask. Python and scikit-learn are used to build the project.
 ![image](https://user-images.githubusercontent.com/60037478/230733764-20b5ef46-123a-4e0f-8c52-4a5f29016cdb.png)
+<br>
+This is a project that predicts the outcomes of IPL (Indian Premier League) matches using Ridge Regressor and Flask. Python and scikit-learn are used to build the project.
+
 <br>
 #Getting Started
 o get started with this project, you'll need to do the following:
