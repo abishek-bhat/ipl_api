@@ -4,7 +4,7 @@
 This is a project that predicts the outcomes of IPL (Indian Premier League) matches using Ridge Regressor and Flask. Python and scikit-learn are used to build the project.
 
 <br>
-#Getting Started
+<h1>Getting Started</h1>
 o get started with this project, you'll need to do the following:
 
 Clone this repository to your local machine.
