@@ -14,9 +14,6 @@ After the Flask app is up and running, you can use the web interface to enter th
 <br>
 <h1>FILES</h1>
 <br>
-![image](https://user-images.githubusercontent.com/60037478/230735053-8620ce7d-ee94-46b5-9d9c-f88bd2c07500.png)
-
-<br>
 app.py: the Flask app that handles the user interface and prediction.<br>
 model.py: the script that trains the Ridge Regressor model on the IPL dataset.<br>
 ipl.csv: the IPL dataset used for training the model.<br>
