@@ -67,7 +67,14 @@ Visualizing the coefficients using tools like bar charts or heatmaps<br>
 Analyzing the errors made by the trained model on the testing dataset<br>
 Identifying patterns in the errors and determining if there are any systematic biases or issues with the model<br>
 Using the insights gained from error analysis to improve the model or dataset<br>
-
+<h1>Model Optimization</h1>
+Using techniques like feature selection, regularization, or ensemble methods to optimize the model<br>
+Evaluating the performance of the optimized model on the testing dataset<br>
+Comparing the performance of the optimized model with the original model to see if it improves<br>
+<h1>Integration with Other Tools</h1><br>
+Integrating the Flask app with other tools like email or messaging services to notify users of new predictions<br>
+Creating an API endpoint for the Flask app so that other developers can access the predictions programmatically<br>
+Storing the predictions and user inputs in a database for analysis or further processing<br>
 <h1>SAMPLE OUTPUT</h1><br>
 
 ![image](https://user-images.githubusercontent.com/60037478/230734874-1a073b3c-89cf-4aa2-8ae3-27382754f5d5.png)
