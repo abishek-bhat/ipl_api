@@ -23,6 +23,7 @@ model.py: the script that trains the Ridge Regressor model on the IPL dataset.<b
 ipl.csv: the IPL dataset used for training the model.<br>
 templates/index.html: the HTML template for the user interface.<br>
 static/style.css: the CSS stylesheet for the user interface.<br>
+
 https://user-images.githubusercontent.com/60037478/230733310-9b6bf171-14bc-4d9b-a5b5-2c0a084a4f85.mp4
 
 ![](ipl.gif)
