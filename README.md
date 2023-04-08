@@ -26,6 +26,27 @@ style.css: the CSS stylesheet for the user interface.<br>
 <h1>DATASET</h1>
 <br>
 The IPL dataset used in this project is available on Kaggle. It contains data on all IPL matches played between 2008 and 2020, including the teams, venues, and outcomes<br>
+<h1>Data Cleaning and Preprocessing</h1>
+<br>
+Exploring and understanding the IPL dataset<br>
+Handling missing and inconsistent data<br>
+Encoding categorical features like teams and venues using one-hot encoding or label encoding<br>
+Splitting the dataset into training and testing sets<br>
+Model Selection and Training<br>
+Choosing a suitable machine learning model for the task of IPL prediction<br>
+Evaluating different models and selecting the best one based on metrics like accuracy and mean squared error<br>
+Tuning hyperparameters of the selected model using techniques like cross-validation<br>
+Training the final model on the entire training dataset<br>
+<h1>Flask App Development</h1><br>
+Creating the Flask app and setting up routes<br>
+Handling user inputs using HTML forms and processing them in the Flask app<br>
+Loading the trained Ridge Regressor model and making predictions using it<br>
+Displaying the prediction results to the user through the web interface<br>
+<h1>Deployment</h1>
+Hosting the Flask app on a cloud service like Heroku <br>
+Configuring the app and setting environment variables<br>
+Testing the deployed app and ensuring it works as expected<br>
+Updating the app with new features and improvements as needed<br>
 
 https://user-images.githubusercontent.com/60037478/230733310-9b6bf171-14bc-4d9b-a5b5-2c0a084a4f85.mp4
 
