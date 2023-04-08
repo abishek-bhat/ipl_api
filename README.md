@@ -26,10 +26,8 @@ style.css: the CSS stylesheet for the user interface.<br>
 <h1>DATASET</h1>
 <br>
 The IPL dataset used in this project is available on Kaggle. It contains data on all IPL matches played between 2008 and 2020, including the teams, venues, and outcomes<br>
-<h1>Data Cleaning and Preprocessing</h1><br>
-![images_123](https://user-images.githubusercontent.com/60037478/230734697-39698a25-badf-48dc-b5ce-3419d32a6775.png)
-
-
+<h1>Data Cleaning and Preprocessing</h1>
+![images_123](https://user-images.githubusercontent.com/60037478/230734713-e04eee84-8147-487f-91c1-4300d8fa395b.png)
 <br>
 Exploring and understanding the IPL dataset<br>
 Handling missing and inconsistent data<br>
