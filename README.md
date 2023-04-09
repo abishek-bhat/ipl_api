@@ -37,6 +37,8 @@ Evaluating different models and selecting the best one based on metrics like acc
 Tuning hyperparameters of the selected model using techniques like cross-validation<br>
 Training the final model on the entire training dataset<br>
 <h1>Flask App Development</h1><br>
+![image](https://user-images.githubusercontent.com/60037478/230753023-13badc3b-c2d4-4d82-8f78-9bacbd1d1191.png)
+<br>
 Creating the Flask app and setting up routes<br>
 Handling user inputs using HTML forms and processing them in the Flask app<br>
 Loading the trained Ridge Regressor model and making predictions using it<br>
