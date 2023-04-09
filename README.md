@@ -55,6 +55,10 @@ Configuring the app and setting environment variables<br>
 Testing the deployed app and ensuring it works as expected<br>
 Updating the app with new features and improvements as needed<br>
 <h1>Performance Evaluation</h1><br>
+
+![image](https://user-images.githubusercontent.com/60037478/230753150-7b295739-520d-4f32-b132-bb5c8e434b98.png)
+
+<br>
 Evaluating the performance of the trained model on the testing dataset<br>
 Calculating metrics like accuracy, precision, recall, and F1 score to measure the model's performance<br>
 Visualizing the performance of the model using tools like confusion matrix, ROC curve, and precision-recall curve<br>
