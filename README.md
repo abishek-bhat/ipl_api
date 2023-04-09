@@ -45,7 +45,11 @@ Creating the Flask app and setting up routes<br>
 Handling user inputs using HTML forms and processing them in the Flask app<br>
 Loading the trained Ridge Regressor model and making predictions using it<br>
 Displaying the prediction results to the user through the web interface<br>
-<h1>Deployment</h1>
+<h1>Deployment</h1><br>
+
+![image](https://user-images.githubusercontent.com/60037478/230753055-1758c5f4-5802-4f1a-a769-e8bdbb1d6876.png)
+
+<br>
 Hosting the Flask app on a cloud service like Heroku <br>
 Configuring the app and setting environment variables<br>
 Testing the deployed app and ensuring it works as expected<br>
