@@ -92,6 +92,11 @@ Integrating the Flask app with other tools like email or messaging services to n
 Creating an API endpoint for the Flask app so that other developers can access the predictions programmatically<br>
 Storing the predictions and user inputs in a database for analysis or further processing<br>
 <h1>OPEN API CONCEPT</h1>
+<br>
+
+![image](https://user-images.githubusercontent.com/60037478/230753859-ad93eb09-f1f1-4ed0-a089-2a6f7ef927e1.png)
+
+<br>
 Start by setting up your development environment on the Intel DevCloud for the Edge. You can use the OpenVINO 2020.3.2 LTS kernel to access the Intel Open API libraries and tools.<br>
 Load the IPL prediction dataset into your Jupyter Notebook. The dataset should include historical data on IPL matches, teams, players, and their performances.<br>
 Preprocess the data to extract the relevant features and prepare it for training your Ridge Regressor model. You can use pandas and numpy libraries to perform this step.<br>
