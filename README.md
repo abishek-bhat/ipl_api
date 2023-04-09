@@ -47,7 +47,7 @@ Loading the trained Ridge Regressor model and making predictions using it<br>
 Displaying the prediction results to the user through the web interface<br>
 <h1>Deployment</h1><br>
 
-![image](https://user-images.githubusercontent.com/60037478/230753055-1758c5f4-5802-4f1a-a769-e8bdbb1d6876.png)
+![image](https://user-images.githubusercontent.com/60037478/230753084-fda0ed7d-17d2-49a3-97d1-244b38b0c35a.png)
 
 <br>
 Hosting the Flask app on a cloud service like Heroku <br>
