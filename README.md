@@ -70,6 +70,13 @@ Comparing the performance of the optimized model with the original model to see 
 Integrating the Flask app with other tools like email or messaging services to notify users of new predictions<br>
 Creating an API endpoint for the Flask app so that other developers can access the predictions programmatically<br>
 Storing the predictions and user inputs in a database for analysis or further processing<br>
+<h1>OPEN API CONCEPT</h1>
+Start by setting up your development environment on the Intel DevCloud for the Edge. You can use the OpenVINO 2020.3.2 LTS kernel to access the Intel Open API libraries and tools.<br>
+Load the IPL prediction dataset into your Jupyter Notebook. The dataset should include historical data on IPL matches, teams, players, and their performances.<br>
+Preprocess the data to extract the relevant features and prepare it for training your Ridge Regressor model. You can use pandas and numpy libraries to perform this step.<br>
+Train your Ridge Regressor model using the preprocessed data. You can use the scikit-learn library to create and train the model.<br>
+Once the model is trained, save it to disk using the pickle library.<br>
+Use the Intel Open API libraries, such as the Intel Distribution of OpenVINO Toolkit, to optimize your prediction code for performance and scalability.<br>
 <h1>SAMPLE OUTPUT</h1><br>
 
 ![image](https://user-images.githubusercontent.com/60037478/230734874-1a073b3c-89cf-4aa2-8ae3-27382754f5d5.png)
